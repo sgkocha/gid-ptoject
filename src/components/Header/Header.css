@@ -1,0 +1,42 @@
+.header {
+    padding-bottom: 17.4px;
+    background: rgba(17, 17, 17, 0.9);
+    position: relative;
+}
+
+.menu-btn {
+    display: block;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+}
+
+.header-nav {
+    width: 100%;
+    background: rgba(19, 19, 19, 0.9);
+    position: absolute;
+    top: 99px;
+    left: 0;
+}
+
+.nav-list {
+    list-style-type: none;
+    text-align: center;
+}
+
+.nav-list-item {
+    margin-bottom: 29px;
+    padding-top: 20px;
+    padding-bottom: 21px;
+    padding-left: 77px;
+    padding-right: 77px;
+}
+
+.list-item-link {
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    color: #828282;
+    text-decoration: none;
+}

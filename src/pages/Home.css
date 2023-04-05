@@ -1,0 +1,21 @@
+.gid-main {
+    padding-top: 322px;
+    padding-bottom: 246px;
+    background: linear-gradient(164.31deg, rgba(0, 0, 0, 0.4) -9.9%, rgba(0, 0, 0, 0.288) 113.34%), url("/public/images/gid-main.png") no-repeat;
+}
+
+.gid-main-title {
+    width: 404px;
+    margin: 0 auto;
+    font-weight: 300;
+    font-size: 80px;
+    line-height: 94px;
+    text-align: center;
+    color: #F2F2F2;
+}
+
+.gid-main-actions {
+    width: fit-content;
+    margin: 123px auto;
+    gap: 47.12px;
+}
