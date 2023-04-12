@@ -29,3 +29,7 @@ body {
 .align-center {
   align-items: center;
 }
+
+.op-less {
+  opacity: 0.4;
+}

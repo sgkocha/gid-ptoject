@@ -1,0 +1,105 @@
+.design-actions {
+    width: fit-content;
+    margin: 49px auto;
+    gap: 30px;
+}
+
+.design-info {
+    margin-top: 22px;
+    margin-left: 86px;
+    flex-wrap: wrap;
+}
+
+.design-info-item {
+    height: 315px;
+}
+
+.design-info-item:nth-child(1) {
+    border: 1px solid #E0E0E0;
+}
+
+.design-info-item:nth-child(2),
+.design-info-item:nth-child(3) {
+    border-top: 1px solid #E0E0E0;
+    border-right: 1px solid #E0E0E0;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+.design-info-item:nth-child(4),
+.design-info-item:nth-child(7),
+.design-info-item:nth-child(10),
+.design-info-item:nth-child(13),
+.design-info-item:nth-child(16),
+.design-info-item:nth-child(19),
+.design-info-item:nth-child(22) {
+    border-left: 1px solid #E0E0E0;
+    border-right: 1px solid #E0E0E0;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+.design-info-item:nth-child(5),
+.design-info-item:nth-child(6),
+.design-info-item:nth-child(8),
+.design-info-item:nth-child(9),
+.design-info-item:nth-child(11),
+.design-info-item:nth-child(12),
+.design-info-item:nth-child(14),
+.design-info-item:nth-child(15),
+.design-info-item:nth-child(17),
+.design-info-item:nth-child(18),
+.design-info-item:nth-child(20),
+.design-info-item:nth-child(21),
+.design-info-item:nth-child(23),
+.design-info-item:nth-child(24) {
+    border-right: 1px solid #E0E0E0;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+.design-info-title {
+    width: 381px;
+    margin-top: 29px;
+    margin-left: 195px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 20px;
+    padding-right: 28px;
+    background: #FAFF09;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33px;
+    color: #000000;
+}
+
+.design-info-desc {
+    width: 615px;
+    margin-top: 49px;
+    margin-left: 37px;
+    margin-right: 37px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 197.69%;
+    color: #4F4F4F;
+}
+
+.design-info-img {
+    margin-top: 29px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.design-submit {
+    margin-top: 39px;
+    margin-left: 96px;
+    margin-right: 96px;
+    padding-top: 111px;
+    padding-bottom: 110px;
+    background: #F2F2F2;
+}
+
+.design-submit-title {
+    width: 623px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 146.69%;
+    color: #000000;
+}

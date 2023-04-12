@@ -1,0 +1,474 @@
+.renovation-main {
+    padding-top: 278px;
+    padding-bottom: 469px;
+    background: url("/public/images/renovation-main.png") no-repeat;
+}
+
+.renovation-main-title {
+    width: fit-content;
+    margin: 0 auto;
+    font-weight: 300;
+    font-size: 80px;
+    line-height: 94px;
+    color: #F2F2F2;
+}
+
+.renovation-main-img {
+    width: fit-content;
+    margin: 96px auto;
+}
+
+.renovation-stats  {
+    margin: 0;
+    margin-top: -101px;
+}
+
+.renovation-stats .gid-stats-undertitle {
+    font-size: 48px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.renovation-stats .gid-stats-title {
+    width: 381px;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 33px;
+    color: #4F4F4F;
+}
+
+.renovation-services {
+    margin-top: 105px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+.renovation-services-img {
+    margin-left: 20px;
+}
+
+.renovation-info-title {
+    margin-left: 61px;
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 56px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.renovation-info-line {
+    margin-top: 18px;
+}
+
+.renovation-services-box {
+    margin-top: 103px;
+    padding-left: 84px;
+    padding-right: 208px;
+}
+
+.renovation-services .services-item-point {
+   margin-top: 28px; 
+}
+
+.renovation-services .services-item-title {
+    width: 430px;
+    margin-top: 7px;
+    margin-left: 16px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000000;
+}
+
+.renovation-services .services-item-list {
+    width: fit-content;
+    height: fit-content;
+    margin-top: 18px;
+    margin-left: 16px;
+    list-style-type: none;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    background: #F5F5F5;
+}
+
+.renovation-services .services-item-list li {
+    margin-top: 13px;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    color: #4F4F4F;
+}
+
+.renovation-works {
+    margin-top: 125px;
+    padding-bottom: 32px;
+    border-bottom: 1px solid #BDBDBD;
+}
+
+.renovation-works-box {
+    margin-top: 6px;
+}
+
+.renovation-works .works-item-title {
+    margin-top: 18px;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 33px;
+    color: #000000;
+}
+
+.renovation-works .works-item-style {
+    margin-top: 13px;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    color: #4F4F4F;
+}
+
+.renovation-works .works-item-size {
+    margin-top: 13px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    color: #333333;
+}
+
+.renovation-works-action {
+    width: fit-content;
+    margin: 16px auto;
+}
+
+.renovation-team {
+    margin-top: 70px;
+    padding-bottom: 29px;
+    border-bottom: 1px solid #BDBDBD;
+}
+
+.renovation-team-box {
+    margin-top: 130px;
+    padding-left: 177px;
+    padding-right: 177px;
+    flex-wrap: wrap;
+    row-gap: 124px;
+}
+
+.renovation-team-item {
+    gap: 30px;
+}
+
+.renovation-team .team-item-name {
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 147.69%;
+    color: #333333;
+}
+
+.renovation-team .team-item-pos {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 147.69%;
+    color: #4F4F4F;
+}
+
+.renovation-team .team-item-desc {
+    width: 387px;
+    margin-top: 28px;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 147.69%;
+    color: #4F4F4F;
+}
+
+.renovation-team-btn {
+    display: block;
+    width: 273px;
+    margin: 84px auto;
+    padding-top: 20px;
+    padding-bottom: 21px;
+    padding-left: 62px;
+    padding-right: 28px;
+    background: #000000 url("/public/images/more.png") no-repeat;
+    background-position: 28px;
+    border: 1px solid #000000;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #F2F2F2;
+    cursor: pointer;
+}
+
+.renovation-stages {
+    margin-top: 55px;
+    padding-bottom: 98px;
+    border-bottom: 1px solid #BDBDBD;
+}
+
+.renovation-stages-box {
+    margin-top: 86px;
+    margin-left: 111px;
+    margin-right: 107px;
+}
+
+.renovation-stages .stages-item-img {
+    margin-left: 94px;
+}
+
+.renovation-stages .stages-item-caption {
+    margin-top: 20.07px;
+    gap: 20px;
+}
+
+.renovation-stages .stages-item-num {
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 145.69%;
+    color: #000000;
+}
+
+.renovation-stages .stages-item-title {
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    background-color: #ffff00;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+}
+
+.renovation-stages .stages-item-desc {
+    width: 387px;
+    margin-left: 94px;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 147.69%;
+    color: #4F4F4F;
+} 
+
+.renovation-stages-line {
+    margin-top: 62px;
+    margin-left: 107px;
+}
+
+.renovation-stages-btn {
+    display: block;
+    width: 510px;
+    height: 112px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    background: transparent url("/public/images/arrow.png") no-repeat 80%;
+    border: 1px solid #000000;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #000000;
+    cursor: pointer;
+}
+
+.renovation-result {
+    margin-top: 55px;
+    padding-bottom: 52px;
+    border-bottom: 1px solid #BDBDBD;
+}
+
+.renovation-result-box {
+    margin-top: 81px;
+    margin-left: 103px;
+    margin-right: 100px;
+}
+
+.renovation-result-item {
+    width: 430px;
+    padding-top: 38px;
+    padding-bottom: 26px;
+    padding-left: 47px;
+    padding-right: 48px;
+}
+
+.renovation-result-item:nth-child(1), .renovation-result-item:nth-child(4) {
+    background: #F5F5F5;
+}
+
+.renovation-result .result-item-title {
+    width: 335px;
+    margin-top: 17.21px;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 147.69%;
+    color: #000000;
+}
+
+.renovation-blog {
+    margin-top: 55px;
+    border-bottom: 1px solid #BDBDBD;
+}
+
+.renovation-blog-box {
+   margin-left: 218px;
+   margin-right: 40px;
+}
+
+.renovation-blog-item {
+    padding-top: 48px;
+}
+
+.renovation-blog-item:nth-child(1) {
+   padding-right: 63px;
+   border-right: 1px solid #BDBDBD;
+}
+
+.renovation-blog-subitem {
+    margin-bottom: 93px;
+}
+
+.renovation-blog-subitem:nth-child(2) {
+    margin-bottom: 0;
+}
+
+.blog-subitem-date {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 147.69%;
+    color: #4F4F4F;
+}
+
+.blog-subitem-title {
+    width: 565px;
+    margin-top: 11px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 147.69%;
+    color: #000000;
+}
+
+.blog-subitem-subtitle {
+    width: 671px;
+    margin-top: 22px;
+    margin-bottom: 22px;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 147.69%;
+    color: #4F4F4F;
+}
+
+.renovation-blog-btn {
+    display: block;
+    width: 364px;
+    height: 80px;
+    margin-top: 23px;
+    margin-left: 45%;
+    margin-bottom: 14px;
+    padding-top: 26px;
+    padding-bottom: 26px;
+    padding-right: 50px;
+    background: transparent url("/public/images/arrow.png") no-repeat 80%;
+    border: 1px solid #000000;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;    
+}
+
+.renovation-blog .action-btn {
+    width: 180px;
+    padding: 0;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.renovation-reviews {
+    margin-top: 55px;
+}
+
+.renovation-reviews-box {
+    margin-top: 96px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.renovation-reviews-previous, .renovation-reviews-next {
+    display: block;
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;    
+}
+
+.renovation-reviews-content {
+    gap: 30px;
+}
+
+.reviews-content-caption {
+    gap: 30px;
+}
+
+.reviews-content-name {
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 147.69%;
+    color: #333333;
+}
+
+.reviews-content-pos {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 147.69%;
+    color: #4F4F4F;
+}
+
+.reviews-content-btn {
+    display: block;
+    width: 364px;
+    margin-top: 39px;
+    padding-top: 26px;
+    padding-bottom: 26px;
+    background-color: transparent;
+    border: 1px solid #000000;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+    cursor: pointer;
+
+}
+
+.reviews-content-title {
+    width: 377px;
+    margin-top: 28px;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 147.69%;
+    color: #4F4F4F;
+}
+
+.reviews-content-desc {
+    width: 722px;
+    margin-top: 40px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 48px;
+    color: #4F4F4F;
+}
+
+.renovation-reviews-pointers {
+    width: fit-content;
+    margin: 81px auto;
+    gap: 25px;
+}
+
+.reviews-pointer {
+    width: 20px;
+    height: 20px;
+    background: #C4C4C4;
+}
+
+.reviews-pointer__active {
+    background: #333333;
+}

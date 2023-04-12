@@ -1,5 +1,6 @@
 import React from 'react'
 import './Header.css'
+import { Link } from 'react-router-dom';
 
 const Header = () => {
    
@@ -21,9 +22,9 @@ const Header = () => {
             </button>
             <nav className= {showMenu ? 'header-nav' : 'd-n'}>
                 <ul className="nav-list">
-                    <li className="nav-list-item"><a className='list-item-link' href="">Home</a></li>
-                    <li className="nav-list-item"><a className='list-item-link' href="">3D Design</a></li>
-                    <li className="nav-list-item"><a className='list-item-link' href="">Renovation</a></li>
+                    <li className="nav-list-item"><Link to='/' className='list-item-link'>Home</Link></li>
+                    <li className="nav-list-item"><Link to='design' className='list-item-link'>3D Design</Link></li>
+                    <li className="nav-list-item"><Link to='renovation' className='list-item-link'>Renovation</Link></li>
                     <li className="nav-list-item"><a className='list-item-link' href="">Construction</a></li>
                     <li className="nav-list-item"><a className='list-item-link' href="">Projects</a></li>
                     <li className="nav-list-item"><a className='list-item-link' href="">Landscape design</a></li>
