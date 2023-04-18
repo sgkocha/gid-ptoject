@@ -1,0 +1,41 @@
+.projects-tabs {
+    width: fit-content;
+    margin: 28px auto;
+    gap: 26px;
+}
+
+.projects-tabs-btn {
+    display: block;
+    width: 209px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #F2F2F2;
+    border: 1px solid #F2F2F2;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #4F4F4F;
+    cursor: pointer;
+}
+
+.tabs-btn__active {
+    background: #FAFF09;
+}
+
+.projects-info {
+    padding-bottom: 52px;
+    border-bottom: 1px solid #BDBDBD;
+}
+
+.projects-info-box {
+    margin-left: 84px;
+    margin-right: 105px;
+    flex-wrap: wrap;
+    row-gap: 50px;
+}
+
+.projects-contact-wr {
+    padding-bottom: 40px;
+    border-bottom: 1px solid #BDBDBD;
+}

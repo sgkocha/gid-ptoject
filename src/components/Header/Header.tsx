@@ -25,9 +25,9 @@ const Header = () => {
                     <li className="nav-list-item"><Link to='/' className='list-item-link'>Home</Link></li>
                     <li className="nav-list-item"><Link to='design' className='list-item-link'>3D Design</Link></li>
                     <li className="nav-list-item"><Link to='renovation' className='list-item-link'>Renovation</Link></li>
-                    <li className="nav-list-item"><a className='list-item-link' href="">Construction</a></li>
-                    <li className="nav-list-item"><a className='list-item-link' href="">Projects</a></li>
-                    <li className="nav-list-item"><a className='list-item-link' href="">Landscape design</a></li>
+                    <li className="nav-list-item"><Link to='services' className='list-item-link'>Services</Link></li>
+                    <li className="nav-list-item"><Link to='projects' className='list-item-link'>Projects</Link></li>
+                    <li className="nav-list-item"><Link to='contacts' className='list-item-link'>Contacts</Link></li>
                 </ul>
             </nav>
         </div>

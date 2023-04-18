@@ -6,12 +6,6 @@ const Design = () => {
     return (
         <main>
             <section>
-                <div className="design-actions d-f">
-                    <ActionButton title='3d-design' bgColor='#000000' txtColor='#FFFFFF' />
-                    <ActionButton title='Renovation' bgColor='transparent' txtColor='#000000' brdColor='#000000' />
-                </div>
-            </section>
-            <section>
                 <div className="design-info d-f">
                     <div className="design-info-item">
                         <div className="info-item-content design-info-title">Style definition</div>

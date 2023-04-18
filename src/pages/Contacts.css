@@ -1,0 +1,136 @@
+.contacts-main {
+    margin-top: 72px;
+    padding-left: 203px;
+    padding-right: 225.45px;
+    padding-bottom: 62px;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+.contacts-main-title, .contact-application-title {
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.contacts-main-box {
+    margin-top: 25px;
+}
+
+.contacts-main .main-item-title {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    color: #828282;
+}
+
+.contacts-main .main-item-content {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #4F4F4F;
+}
+
+.contacts-main .main-item-address {
+    width: 301px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 43px;
+    color: #4F4F4F;
+}
+
+.contacts-main .main-item-social {
+    margin-top: 34px;
+    gap: 34.25px;
+}
+
+.contact-application {
+    margin-top: 94px;
+    padding-left: 203px;
+    padding-right: 207px;
+    padding-bottom: 21px;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+.contact-application-fm {
+    margin-top: 62px;
+    align-items: baseline;
+}
+
+.contact-application-fm input, .contact-application-fm label {
+    display: block;
+}
+
+.contact-application-fm label {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #4F4F4F;
+}
+
+.contact-application .application-fm-input {
+    margin-top: 40px;
+}
+
+.contact-application .application-fm-input input {
+    width: 600px;
+    margin-top: 14px;
+    padding-top: 26px;
+    padding-bottom: 26px;
+    padding-left: 24px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    color: #BDBDBD;
+}
+
+.contact-application .application-fm-input input:placeholder {
+    color: #BDBDBD;
+}
+
+.contact-application .application-fm-comment textarea {
+    width: 809px;
+    height: 383px;
+    margin-top: 14px;
+    margin-bottom: 14px;
+    padding-top: 26px;
+    padding-left: 24px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    color: #BDBDBD;
+}
+
+.contact-application .application-fm-comment textarea::placeholder {
+    color: #BDBDBD;
+}
+
+.contact-application .application-fm-agree {
+    margin-top: 21px;
+    gap: 10px;
+}
+
+.contact-application .application-fm-agree label {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 146.19%;
+    color: #333333;
+}
+
+.contact-application .application-fm-agree input {
+    width: 17px;
+    height: 17px;
+}
+
+.contacts-map {
+    margin-top: 101px;
+}
+
+.contacts-map iframe {
+    border: 0;
+} 
+
+.contact-application .action-btn {
+    padding-left: 86px;
+    padding-right: 86px;
+}

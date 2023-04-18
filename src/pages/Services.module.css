@@ -1,0 +1,52 @@
+.stage {
+    margin-top: 50px;
+    padding-bottom: 43px;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+.stage_title_wr {
+    display: flex;
+    width: fit-content;
+    margin-left: 195px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 20px;
+    padding-right: 29.7px;
+    background: #FAFF09;
+}
+
+.stage_title {
+    margin-right: 50px;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33px;
+    color: #000000;
+}
+
+.stage_title_btn {
+    display: block;
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+}
+
+.stage_box {
+    display: flex;
+    margin-top: 29px;
+    margin-left: 195px;
+    gap: 9px;
+}
+
+.item_title_wr {
+    display: flex;
+    gap: 10px;
+    width: fit-content;
+    margin: 13px auto;
+}
+
+.stage_item_title {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    color: #4F4F4F;
+}
