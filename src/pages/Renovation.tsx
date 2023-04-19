@@ -406,6 +406,7 @@ const Renovation = () => {
                                     view implies that nanotechnologies, regardless of their level, seeking to
                                     supplant traditional production, should be functionally separated into independent elements...
                                 </p>
+
                                 <button className="reviews-content-btn" 
                                         onClick={()=>handleMoreReview()}>
                                     {moreReview ? "Read less" : "Read completely"} 

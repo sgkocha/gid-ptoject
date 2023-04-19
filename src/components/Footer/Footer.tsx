@@ -26,8 +26,9 @@ const Footer = () => {
           <ul className="footer-bar-list">
             <li className="bar-list-item"><a href="">About us</a></li>
             <li className="bar-list-item"><Link to='team'>Our team</Link></li>
+            <li className="bar-list-item"><Link to='review'>Review</Link></li>
             <li className="bar-list-item"><a href="">History</a></li>
-            <li className="bar-list-item"><Link to='blog'>Our Blog</Link></li>
+            <li className="bar-list-item"><Link to='blog'>Our Blog</Link></li> 
           </ul>
         </div>
         <div className="footer-bar-item">

@@ -9,6 +9,7 @@ import Services from '../../pages/Services'
 import Contacts from '../../pages/Contacts'
 import OurTeam from '../../pages/OurTeam'
 import OurBlog from '../../pages/OurBlog'
+import Review from '../../pages/Review'
 
 const Main = () => {
   return (
@@ -48,7 +49,11 @@ const Main = () => {
         <Route
           path='blog'
           element={<OurBlog/>}
-        />  
+        /> 
+        <Route
+          path='review'
+          element={<Review/>}
+        /> 
     </Routes>
   )
 }
